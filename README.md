@@ -1,11 +1,11 @@
 # SliceSamp: A Promising Downsampling Alternative for Retaining Information in Neural Network	
-An alternative downsampling method that is lightweight, efficient, and promising
+SliceSamp, a plug-and-play downsampling module, offers the capability to deploy AI models on edge computing devices, enabling neural networks to operate with lighter weights, lower computational costs, and higher performance.
 
 **[WHU Research](https://github.com/OyamingO/SliceSamp/)**
 
 Lianlian He, [Ming Wang*](https://github.com/OyamingO)
 
-[[`Paper`]()] [[`Project`](https://github.com/OyamingO)] [[`Demo`](#Citing-SliceSamp)] [[`Dataset`](https://doi.org/10.57760/sciencedb.j00104.00103)]  [[`BibTeX`](#Citing-SliceSamp)]
+[[`Paper`]()] [[`Project`](https://github.com/OyamingO)] [[`Dataset`](https://doi.org/10.57760/sciencedb.j00104.00103)]  [[`BibTeX`](#Citing-SliceSamp)]
 
 
 ### 🔥: SliceSamp design
@@ -23,10 +23,6 @@ The following optional dependencies are necessary for mask post-processing, savi
 ```
 pip install opencv-python pycocotools matplotlib
 ```
-
-## License
-
-The model is licensed under the [Apache 2.0 license](LICENSE).
 
 ## Citing SliceSamp
 
