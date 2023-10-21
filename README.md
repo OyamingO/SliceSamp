@@ -1,8 +1,6 @@
 # SliceSamp: A Promising Downsampling Alternative for Retaining Information in Neural Network	
 SliceSamp, a plug-and-play downsampling module, offers the capability to deploy AI models on edge computing devices, enabling neural networks to operate with lighter weights, lower computational costs, and higher performance.
 
-**[WHU Research](https://github.com/OyamingO/SliceSamp/)**
-
 Lianlian He, [Ming Wang*](https://github.com/OyamingO)
 
 [[`Paper`]()] [[`Project`](https://github.com/OyamingO)] [[`Dataset`](https://doi.org/10.57760/sciencedb.j00104.00103)]  [[`BibTeX`](#Citing-SliceSamp)]
