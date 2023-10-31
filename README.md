@@ -3,7 +3,7 @@ SliceSamp, a plug-and-play downsampling module, offers the capability to deploy 
 
 Lianlian He, [Ming Wang*](https://github.com/OyamingO)
 
-[[`Paper`]()] [[`Project`](https://github.com/OyamingO)] [[`Dataset`](https://doi.org/10.57760/sciencedb.j00104.00103)]  [[`BibTeX`](#Citing-SliceSamp)]
+[[`Paper`](https://doi.org/10.3390/app132111657)] [[`Project`](https://github.com/OyamingO/SliceSamp)] [[`Dataset`](https://doi.org/10.57760/sciencedb.j00104.00103)]  [[`BibTeX`](#Citing-SliceSamp)]
 
 
 ### 🔥: SliceSamp design
@@ -28,9 +28,10 @@ If you use SliceSamp in your research, please use the following BibTeX entry.
 
 ```
 @article{SliceSamp,
-  title={SliceSamp: A Promising Downsampling Alternative for Retaining Information in Neural Network},
+  title={SliceSamp: A Promising Downsampling Alternative for Retaining Information in a Neural Network},
   author={Lianlian He, Ming Wang},
   journal={Applied Sciences},
   year={2023}
 }
+
 ```
